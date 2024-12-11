@@ -6,6 +6,7 @@
 
 ### Introducción
 La informática, como pilar fundamental de la sociedad moderna, tiene un impacto significativo en el medio ambiente. Desde los procesos de fabricación hasta la disposición de dispositivos electrónicos, los efectos medioambientales de esta industria requieren atención y acción.
+
 ---
 
 ### ¿Qué es la contaminación ambiental?
